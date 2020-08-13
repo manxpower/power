@@ -1214,6 +1214,18 @@ section.lazy-placeholder:after {
 .cid-s7zxL4uSzx .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-s7zCe0RplW {
+  background: #ffffff;
+}
+.cid-s7zCe0RplW .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s7zCe0RplW .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s7c00BKhWA {
   padding-top: 30px;
   padding-bottom: 120px;
