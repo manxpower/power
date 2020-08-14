@@ -1526,6 +1526,18 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s7CvG5BrQ3 {
+  background: #ffffff;
+}
+.cid-s7CvG5BrQ3 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s7CvG5BrQ3 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s7Ci6rNJJ6 {
   background: #232323;
   padding-top: 90px;
